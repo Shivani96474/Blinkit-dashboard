@@ -20,3 +20,6 @@ Features:
 * Year-wise outlet establishment trends
 * Interactive filters and slicers
 * Clean, user-friendly visualizations suitable for business insights# Blinkit-dashboard
+
+Screenshot:
+https://github.com/Shivani96474/Blinkit-dashboard/blob/main/Blinkit.png
