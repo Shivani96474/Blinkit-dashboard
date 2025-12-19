@@ -22,4 +22,4 @@ Features:
 * Clean, user-friendly visualizations suitable for business insights# Blinkit-dashboard
 
 Screenshot:
-https://github.com/Shivani96474/Blinkit-dashboard/blob/main/Blinkit.png
+![Alt text](https://github.com/Shivani96474/Blinkit-dashboard/blob/main/Blinkit.png)
